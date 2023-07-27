@@ -170,9 +170,9 @@ export const STAKING_REWARDS_INFO: {
       extraMessage: 'Reward Starts: 2022-07-20 08:00:00 UTC',
       tokens: [UNI[ChainId.CRONOSMAINNET], new Token(ChainId.CRONOSMAINNET, '0xD5508C61381f4905e2b2d3694a982936F43650fE', 18, '', '')],
       stakingRewardAddress: '0x91776BAf785066b1e4a62123750B289EdD26e672',
-      rewardTokenAddress: '0x40fF4581cF2d6e4E07b02034105D6435d4f3F84c',
-      rewardTokenName: 'CGX token',
-      rewardTokenSymbol: 'CGX',
+      rewardTokenAddress: '0x99e88527F5355c1a006FE60b42b7b1515E69fa3a',
+      rewardTokenName: 'SMORE Token',
+      rewardTokenSymbol: 'SMORE',
       rewardTokenDecimals: 18,
     },
 
